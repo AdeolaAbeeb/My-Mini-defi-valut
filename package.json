@@ -1,0 +1,29 @@
+{
+  "name": "my-mini-defi-valut",
+  "version": "1.0.0",
+  "description": "**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdeolaAbeeb/My-Mini-defi-valut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AdeolaAbeeb/My-Mini-defi-valut/issues"
+  },
+  "homepage": "https://github.com/AdeolaAbeeb/My-Mini-defi-valut#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^18.0.10",
+    "hardhat": "^2.29.1"
+  }
+}
