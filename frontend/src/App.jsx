@@ -2,7 +2,7 @@ import { useState } from "react";
 import { BrowserProvider, Contract, formatEther, parseEther } from "ethers";
 import "./App.css";
 
-const VAULT_ADDRESS = "PASTE_YOUR_DEPLOYED_ADDRESS_HERE";
+const VAULT_ADDRESS = "0xb76a1BAa5d9b7809444C1D621f235aF46088E7b2";
 const ABI = [
   "function deposit() payable",
   "function withdraw(uint256 amount)",
